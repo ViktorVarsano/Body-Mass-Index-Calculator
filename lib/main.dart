@@ -5,7 +5,7 @@ void main() {
   runApp(
     MaterialApp(
       home: Center(
-        child: Text('Let\'s build a BMI Calculator'),
+        child: Text('Let\'s build a BMI Calculator!'),
       ),
     ),
   );
